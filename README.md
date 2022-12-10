@@ -1,7 +1,5 @@
 # QBlochain-testnet
-<p align="center">
-  <img height="auto" width="auto" src="https://raw.githubusercontent.com/bayy420-999/airdropfind/main/NavIcon.png">
-</p>
+
 
 ## Referensi
 
